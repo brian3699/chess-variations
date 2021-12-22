@@ -1,0 +1,19 @@
+2,12
+Q2,K2
+P2,P2
+P2,P2
+-,-
+-,-
+-,-
+-,-
+-,-
+-,-
+P1,P1
+P1,P1
+Q1,K1
+
+// Load this file to basic Play Chess
+
+// This is an interesting example that shows the versatility of our frontend. Our frontend can create any kind of chess
+// board (even the one like this example with 2x12 grid) because we do not have any hardcoded values and uses a data
+// driven design.

@@ -1,0 +1,4 @@
+rules=(0,1),(1,0),(0,-1),(-1,0)
+iterations=5
+team=1
+pointValue=6
