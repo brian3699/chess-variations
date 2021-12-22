@@ -11,7 +11,7 @@ I have worked mainly on frontend and controllers. I have significantly contribut
 
 The frontend classes (all classes in the view package) are well refactored and closely follow the OOP principles. These classes are also versatile and extendable and could be easily used in other projects to create different chess variations. 
 
-### OOGA Chess - User Interface 
+## OOGA Chess - User Interface 
 
 <img width="793" alt="Screen Shot 2021-12-22 at 9 44 12 PM" src="https://user-images.githubusercontent.com/35345069/147094723-2f407fc4-777b-4a09-9b71-8d09c60b17ed.png">
 
@@ -21,13 +21,12 @@ A user can choose to play 6 variations of chess in three different languages (En
 
 This is a page of 4 player chess. A user can apply cheat and save game in CSV file. OOGA Chess also supports pawn promotion and castling.
 
-### Members and Primary Roles
+## Members and Primary Roles
 
-##### Back end: Margaret Sullivan, Nayla Boorady, Luke Turkovich, Carson Calahan
+* Back end: Margaret Sullivan, Nayla Boorady, Luke Turkovich, Carson Calahan
+* Front end: Young Jun, Evelyn Cupil-Garcia
 
-##### Front end: Young Jun, Evelyn Cupil-Garcia
-
-### Timeline
+## Timeline
 
 Start Date: Wednesday, Nov 10th 2021
 
@@ -37,13 +36,13 @@ Hours Spent: ~100 each
 
 
 
-### Resources Used
+## Resources Used
 
 https://www.javatpoint.com/how-to-get-value-from-json-object-in-java-example
 https://mkyong.com/java/java-properties-file-examples/
 
 
-### Running the Program
+## Running the Program
  
 Main class: Main
 
@@ -58,7 +57,7 @@ Features implemented:
 * Create Own Chess Game
 
 
-### Notes/Assumptions
+## Notes/Assumptions
 
 * Checkmate cannot be checked for in the games
 * Castling does not check whether the new King's position will be in check
