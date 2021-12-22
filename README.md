@@ -1,7 +1,7 @@
-ooga
+OOGA Chess Variations
 ====
 
-This project implements a player for multiple related games.
+This project implements 6 variations of Chess.
 
 Names: Margaret Sullivan, Nayla Boorady, Luke Turkovich, Carson Calahan, Evelyn Cupil-Garcia, Young Jun
 
@@ -15,8 +15,9 @@ Finish Date: Monday, Dec 7th 2021
 Hours Spent: ~100 each
 
 ### Primary Roles
-Back end: Margaret Sullivan, Nayla Boorady, Luke Turkovich, Carson Calahan
-Front end: Young Jun, Evelyn Cupil-Garcia
+##### Back end: Margaret Sullivan, Nayla Boorady, Luke Turkovich, Carson Calahan
+
+##### Front end: Young Jun, Evelyn Cupil-Garcia
 
 
 ### Resources Used
